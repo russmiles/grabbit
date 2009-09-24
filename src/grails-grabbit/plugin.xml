@@ -1,0 +1,14 @@
+<plugin name='grabbit' version='0.1' grailsVersion='1.1.1 &gt; *'>
+  <author>Russ Miles</author>
+  <authorEmail>russell.miles@opencredo.com</authorEmail>
+  <title>Grails Plugin that provides support for Rabbit MQ</title>
+  <description>\
+Brief description of the plugin.
+</description>
+  <documentation>http://grails.org/Grabbit+Plugin</documentation>
+  <resources>
+    <resource>DataSource</resource>
+    <resource>UrlMappings</resource>
+  </resources>
+  <dependencies />
+</plugin>
